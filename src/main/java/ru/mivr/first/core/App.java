@@ -1,4 +1,4 @@
-package ru.mivr.core;
+package ru.mivr.first.core;
 
 
 import ru.mivr.first.ButtonPhone;
