@@ -20,6 +20,5 @@ public class App {
         vasya.callAnotherUser(petya);
 
         petya.callAnotherUser(vasya);
-
     }
 }
